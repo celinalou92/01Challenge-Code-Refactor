@@ -3,4 +3,4 @@
  
 HTML and CSS Static webpage no external links
 
-![Horiseon Landing Page Screengrab](./Develop/images/horiseion-screengrab.png)
+![Horiseon Landing Page Screengrab](horiseion-screengrab.png)
